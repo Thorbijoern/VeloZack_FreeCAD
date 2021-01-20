@@ -1,0 +1,14 @@
+# folders of the original Design
+1 Einzelteile/
+2 Baugruppen/
+3 Normteile/
+4 Kaufteile/
+5 Renderings/
+6 Fraesvorlage/
+
+# unwanted proprietary filetypes
+*.SLDPRT
+
+# other unwanted files
+*.zip
+Parameter*
